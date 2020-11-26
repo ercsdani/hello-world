@@ -1,2 +1,5 @@
 # hello-world
-Kipróbálom a GitHub-ot
+
+DANi vagyok.
+Kipróbálom a GitHub-ot.
+Szeretem a sört.
